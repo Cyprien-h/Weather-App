@@ -1,4 +1,6 @@
 # Weather-App
+Cyprien HATTIER
+
 
 fonctionnalités :
 
